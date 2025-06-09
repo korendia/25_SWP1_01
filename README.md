@@ -1,4 +1,4 @@
-20253169    
-Bae Inhwan
+Baeinhwan 
+20253169
 Kookmin Univ.SW
 Today is my last day
