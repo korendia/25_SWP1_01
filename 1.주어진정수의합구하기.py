@@ -1,3 +1,5 @@
+#Inhwan Bae,Kookmin University,2025, May,14
+
 t=int(input())
 count=0
 
